@@ -1,1 +1,1 @@
-# Mysql Docker Compose With no Worries
+# MySQL Docker Compose With no Worries
